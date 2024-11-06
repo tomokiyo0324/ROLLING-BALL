@@ -1,0 +1,45 @@
+# Windows-specific files
+Thumbs.db
+Desktop.ini
+*.log
+NTUSER.DAT*
+.vscode/
+AppData/
+Downloads/
+Contacts/
+Documents/
+Favorites/
+Links/
+Music/
+Pictures/
+Videos/
+OneDrive/
+
+# macOS-specific files
+.DS_Store
+
+# 無視したい大きなファイルやディレクトリ
+anaconda3/
+tensorflow/
+*.dll
+*.pyd
+*.bak
+
+# Anaconda関連
+.anaconda/
+.conda/
+.continuum/
+.keras/
+.matplotlib/
+
+# VS関連
+.vscode/
+.vs/
+
+# ローカル環境関連
+Saved Games/
+Searches/
+IntelGraphicsProfiles/
+
+# その他の無視したいファイルやフォルダ
+ntuser.ini
